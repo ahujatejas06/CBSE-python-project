@@ -1,6 +1,5 @@
 # Student Management System
 
-Here is the link to run the program in a Repl.it server. 
-https://cbse-python-project.ahujatejas06.repl.run/
+[![Run on Repl.it](https://repl.it/badge/github/ahujatejas06/CBSE-python-project)](https://repl.it/github/ahujatejas06/CBSE-python-project)
 
 Use Password *tejasahuja* to authenticate.
