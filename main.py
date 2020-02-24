@@ -16,7 +16,7 @@ class std_details_class:
         self.DOB = DOB
 
     def std_details(self):
-        return tuple(self.name, self._class, self.roll_no, self.section, self.gender, self.ph_no, self.DOB)
+        return (self.name, self._class, self.roll_no, self.section, self.gender, self.ph_no, self.DOB)
 
     def edit_name(self, name):
         self.name = name
